@@ -1,4 +1,4 @@
-from fastapi  import  FasAPI
+e5rfrom fastapi  import  FasAPI
 from fastapi.responses import HTMLResponse
 
 app = FastAPI ()
@@ -13,7 +13,7 @@ async def mostrar_inicio() :
 	  <body>
 	      <h3>Bienvenidos</h3>
 	      <p>Este sitio pertenece al EquipoX y mostrara los datos de los integrantes</p>
-	      <a href="wilber.html"> wilber </a>
+	      <a href="wilber.html"> wilber</a>
 	   </body>
 	   </html>
 	   """

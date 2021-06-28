@@ -332,6 +332,7 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+<<<<<<< HEAD
 ejercicios_Jinja2/Jinga2/
 ejercicios_Jinja2/lista_alumnos.json
 ejercicios_Jinja2/main.py
@@ -343,3 +344,5 @@ ejercicios_Jinja2/recursos/misEstilos.css
 buscar.py
 Jinga2/
 resultado.py
+=======
+>>>>>>> parent of 6772339 (Update .gitignore)
